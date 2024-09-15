@@ -99,3 +99,5 @@ The model will output whether the wine is of **good quality** or **bad quality**
 This project demonstrates the application of machine learning models to classify wine quality based on its chemical properties. The Random Forest model outperformed SVM in predicting wine quality.
 
 ---
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
