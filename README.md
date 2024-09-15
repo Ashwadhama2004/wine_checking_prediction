@@ -53,7 +53,7 @@ The project uses the following Python libraries:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Ashwadhama2004/wine_checking_prediction/tree/main>
    cd <repository-directory>
    ```
 
